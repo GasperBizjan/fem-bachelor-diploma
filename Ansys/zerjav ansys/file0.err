@@ -1,0 +1,38 @@
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       17:51:10
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       18:00:56
+
+ *** ERROR ***                           CP =       3.625   TIME= 18:09:06
+ This function requires defined nodes.                                   
+  No nodes are currently defined.                                        
+
+ *** ERROR ***                           CP =      10.188   TIME= 18:57:06
+ This function requires defined elements.                                
+  No elements are currently defined.                                     
+
+ *** WARNING ***                         CP =      11.094   TIME= 18:57:23
+ Undefined element type 0 at element 0 on file elementi                  
+  File read was incomplete.  Use ELIST to list the elements that were    
+ read.                                                                   
+
+ *** WARNING ***                         CP =      15.484   TIME= 19:06:40
+ Please expand modes (MXPAND command) if any downstream MODAL analysis   
+ based calculations (ex: mode superposition analysis, normalizing modes  
+ to unity) need to be performed.                                         
+
+ *** ERROR ***                           CP =      15.484   TIME= 19:06:40
+ The eigenvalue extraction method must be specified on the MODOPT        
+ command.  Either the LANB, LANPCG, or SNODE method is usually           
+ recommended.                                                            
+
+ *** ERROR ***                           CP =      15.562   TIME= 19:06:47
+ The model data was checked and there were errors found.                 
+  Please check output or errors file ( C:\Users\Bizjan\Desktop\zerjav    
+ ansys\file0.err ) for messages.                                         
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       20:43:27
+
+ *** WARNING ***                         CP =      18.406   TIME= 21:41:54
+ No data item specified.  The PLNSOL command is ignored.                 
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       00:12:47
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       23:13:45
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       21:43:10
+/COM,ANSYS RELEASE 2020 R1           BUILD 20.1      UP20191203       22:40:12
